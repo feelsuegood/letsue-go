@@ -1,4 +1,4 @@
 # Let'Sue Go
 
 ## References
-- [Getting started with Go is easy and fast by Nomad Coders (Mar 2020)](https://nomadcoders.co/go-for-beginners/)
+- [Getting Started with Go Quickly and Easily by Nomad Coders (Mar 2020)](https://nomadcoders.co/go-for-beginners/)
